@@ -45,7 +45,7 @@ img{
     text-decoration: none;
 }
 
-
+/*the list of numbers is for each p*/
 .one{
     font-family: boucherie-cursive, sans-serif;
     color: #4F0B09;
@@ -213,6 +213,7 @@ h6{
     left: 800px;
     bottom: 4050px;
 }
+/*footer*/
 
 .container {
     position: relative;
