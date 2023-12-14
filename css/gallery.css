@@ -7,6 +7,7 @@ body{
     background-image:url("../image/paper-menu.gif");
     height: 1000px;
 }
+/*nav bar*/
 .topnav ul li{
     color: #FFEACC;
     font-size: 30px;
@@ -38,7 +39,7 @@ body{
 .topnav a:link{
     text-decoration: none;
 }
-
+/*images are naturally set*/
 .container {
     position: relative;
     text-align: center;
